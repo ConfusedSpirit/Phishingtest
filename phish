@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Sessie verlopen</title>
+</head>
+<body>
+  <h2>Sessie verlopen</h2>
+  <p>Log opnieuw in om door te gaan.</p>
+
+  <input placeholder="E-mailadres">
+  <input type="password" placeholder="Wachtwoord">
+  <button onclick="alert('Demo: geen data verzonden')">
+    Inloggen
+  </button>
+</body>
+</html>
